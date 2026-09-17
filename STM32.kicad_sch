@@ -5475,7 +5475,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 63.5 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -5568,7 +5568,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_QFP:LQFP-48_7x7mm_P0.5mm"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 227.0252 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -5650,7 +5650,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_QFP:LQFP-48_7x7mm_P0.5mm"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 140.6652 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -5732,7 +5732,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_QFP:LQFP-48_7x7mm_P0.5mm"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 181.3052 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -5812,7 +5812,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_LCC:PLCC-84_29.3x29.3mm_P1.27mm"
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 238.76 47.498 90)
 			(hide yes)
 			(show_name no)
@@ -5895,7 +5895,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x04_P1.00mm_Vertical_SMD_Pin1Right"
 			(at 241.3 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -6218,7 +6218,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_QFP:LQFP-48_7x7mm_P0.5mm"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 28.9052 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -6458,7 +6458,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 158.242 130.81 90)
 			(hide yes)
 			(show_name no)
@@ -6701,7 +6701,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_QFP:LQFP-48_7x7mm_P0.5mm"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 158.4452 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -7174,7 +7174,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm"
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_CK_KMS2xxG"
 			(at 152.4 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -7651,7 +7651,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_QFP:LQFP-48_7x7mm_P0.5mm"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 247.3452 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -7953,7 +7953,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_QFP:LQFP-48_7x7mm_P0.5mm"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 126.6952 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -8032,7 +8032,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 167.64 70.358 90)
 			(hide yes)
 			(show_name no)
@@ -8114,7 +8114,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 149.352 130.81 90)
 			(hide yes)
 			(show_name no)
@@ -8511,7 +8511,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 233.172 86.36 90)
 			(hide yes)
 			(show_name no)
@@ -8590,7 +8590,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_QFP:LQFP-48_7x7mm_P0.5mm"
+		(property "Footprint" "Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm"
 			(at 151.13 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -8700,7 +8700,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_QFP:LQFP-48_7x7mm_P0.5mm"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 163.5252 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -8782,7 +8782,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x04_P1.00mm_Vertical_SMD_Pin1Right"
 			(at 134.62 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -8949,7 +8949,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_QFP:LQFP-48_7x7mm_P0.5mm"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 147.0152 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -9032,7 +9032,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:WDFN-10-1EP_3x3mm_P0.5mm_EP1.8x2.5mm"
+		(property "Footprint" "Connector_USB:USB_Micro-B_Technik_TWP-4002D-H3"
 			(at 257.81 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -9287,7 +9287,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_QFP:LQFP-48_7x7mm_P0.5mm"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 169.8752 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -9369,7 +9369,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 69.342 45.72 90)
 			(hide yes)
 			(show_name no)
@@ -9530,7 +9530,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x04_P1.00mm_Vertical_SMD_Pin1Right"
 			(at 134.62 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -9697,7 +9697,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_QFP:LQFP-48_7x7mm_P0.5mm"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 56.8452 52.07 0)
 			(hide yes)
 			(show_name no)
