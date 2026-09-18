@@ -1,3 +1,23 @@
+# STM32 PCB Design
+
+Custom STM32 microcontroller board designed in KiCad. This project includes the schematic, PCB layout, and 3D render, with power integrity analysis covering decoupling capacitors and ferrite bead usage.
+
+## Project Images
+
+### Schematic
+
+![Schematic](img/schematic.png)
+
+### PCB Layout
+
+![PCB Layout](img/pcb.png)
+
+### 3D Render
+
+![PCB 3D Render](img/pcb_3d.png)
+
+---
+
 # What is decoupling capacitors? 
 A decoupling capacitor (or bypass capacitor) sits between the power supply pin ($V_{CC}$) and ground ($GND$) of an integrated circuit (IC) to isolate the chip from noise on the power rail and maintain stable operating voltage.
 
@@ -50,4 +70,7 @@ While decoupling capacitors and ferrite beads both fight high-frequency noise, t
 
 ---
 
-# 
+# References
+
+* [KiCad Documentation](https://docs.kicad.org/)
+* [STMicroelectronics STM32 Documentation](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html) 
